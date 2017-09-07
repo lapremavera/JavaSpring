@@ -1,0 +1,15 @@
+.paragraaf {
+    border-style: dotted;
+    font-size: 3em;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 5em;
+}
+
+form {
+    margin-top: 5em;
+}
+
